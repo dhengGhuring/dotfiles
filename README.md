@@ -1,0 +1,2 @@
+# dotfiles
+Minimal Config BSPWM
